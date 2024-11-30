@@ -91,6 +91,16 @@ pip install -r requirements.txt
 - Check webcam permissions
 - Verify Python version compatibility
 
+## Future Improvements
+
+- Voice Activation
+- Zoom In/Out Gestures
+- Extended Detection Range
+- Faster Slide Navigation
+- Performance Optimization
+- Cross-Platform Support
+- Accessibility Enhancements
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Aidirrr/slide-controller/issues).
